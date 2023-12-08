@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Exemplo</title>
+</head>
+<body>
+    <h1>Texto em HTML</h1>
+    <p>Este é um parágrafo de texto em HTML.</p>
+    <p><strong>Texto em negrito</strong> e <em>texto em itálico</em>.</p>
+    <p><a href="https://www.exemplo.com">Link para exemplo.com</a></p>
+</body>
+</html>
